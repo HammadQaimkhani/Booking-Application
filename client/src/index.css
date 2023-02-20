@@ -1,0 +1,10 @@
+/** @format */
+.pointer {
+  cursor: pointer;
+}
+.white {
+  color: #ffffff;
+}
+.ant-modal-footer {
+  display: none;
+}
